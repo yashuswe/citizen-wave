@@ -1,0 +1,28 @@
+
+    {
+        "items": {
+          "bootstrap": [
+          ],
+          "elastic": [
+          ],
+          "responsive": [
+            {
+              "id": 1,
+              "title": "Swiper Carousel Example",
+              "imageUrl":"../public/assets/carousel-1.webp"
+            },
+            {
+              "id": 2,
+              "title": "Swiper Carousel Example",
+              "imageUrl":"../public/assets/carousel-2.webp"
+            },
+            {
+              "id": 3,
+              "title": "Swiper Carousel Example",
+              "imageUrl":"../public/assets/carousel-3.webp"
+            }
+          ]
+        }
+      }
+  
+  
